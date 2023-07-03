@@ -1,4 +1,5 @@
 # Corider User API
+A Flask user resource API.
 ## Setting up the API:
 
 ### Without docker:
