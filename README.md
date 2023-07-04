@@ -34,6 +34,7 @@ flask run
 - Following endpoints can be called
 ```
 GET localhost:5000/users
+GET localhost:5000/users/<user_id>
 POST localhost:5000/users
 PUT localhost:5000/users/<user_id>
 DELETE localhost:5000/users/<user_id>
