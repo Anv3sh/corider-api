@@ -42,15 +42,15 @@ DELETE localhost:5000/users/<id>
 ## Postman Preview:
 
 ### GET
-![Alt text](image-2.png)
+![Alt text](./images/image-2.png)
 
 ### GET by user id
-![Alt text](image-3.png)
+![Alt text](./images/image-3.png)
 ### POST
-![Alt text](image.png)
+![Alt text](./images/image.png)
 
 ### PUT
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 ### DELETE
 ![Alt text](image-4.png)
