@@ -38,3 +38,12 @@ POST localhost:5000/users
 PUT localhost:5000/users/<id>
 DELETE localhost:5000/users/<id>
 ```
+
+## Postman Preview:
+
+### GET
+![Alt text](image-2.png)
+
+### GET by user id
+### POST
+![Alt text](image.png)
