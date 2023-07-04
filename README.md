@@ -35,8 +35,8 @@ flask run
 ```
 GET localhost:5000/users
 POST localhost:5000/users
-PUT localhost:5000/users/<id>
-DELETE localhost:5000/users/<id>
+PUT localhost:5000/users/<user_id>
+DELETE localhost:5000/users/<user_id>
 ```
 
 ## Postman Preview:
