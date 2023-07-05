@@ -54,4 +54,4 @@ DELETE localhost:5000/users/<user_id>
 ![Alt text](./images/image-1.png)
 
 ### DELETE
-![Alt text](image-4.png)
+![Alt text](./images/image-4.png)
