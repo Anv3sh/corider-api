@@ -1,5 +1,5 @@
 # Corider User API
-A Flask user resource API.
+A Flask user resource API using Flask RESTful and Pymongo.
 ## Setting up the API:
 
 ### Without docker:
